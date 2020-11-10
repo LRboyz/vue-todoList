@@ -30,5 +30,5 @@ yarn lint
 Vue2.6 + Vue Cli4 + ElementUI , 存储采用LocalStorage持久化数据, 因为采用数据库存储还需要安装数据库请求数据等等， 按照需求有新增待办，删除待办，修改待办等功能，时间排序等，刷新页面不会丢失数据等
 
 
-
+![image](http://www.lrboy.live/todolist.jpg)
 
